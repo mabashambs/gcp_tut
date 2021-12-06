@@ -1,0 +1,50 @@
+cloud : software(computing) services such as provided over the internet instead of local server.
+----------------------------
+Types:
+------
+private cloud : also called internal cloud, private cloud provides computing services to a private internal network(with in the Org.) and selected users only able to access.
+--------------
+public cloud : Public Cloud provides  computing services to a shared platform and that is accessible to the general public through an Internet connection.
+-------------
+hybrid cloud : public cloud + private cloud,, non-critical activities are performed by the public cloud and critical activities are performed by the private cloud.
+-------------
+Community Cloud : Community cloud provides computing services to cloud infrastructure to be accessible by a group of several organizations to share the information.
+----------------
+
+Cloud services: These are infrastructure, platforms, or software that are hosted by third-party providers and made available to customers access these resources on the Internet using a pay-as-per use model.
+
+---------------
+Types:
+----------
+Infrastructure-as-a-Service (IaaS)  :
+
+-> Provides users with compute, networking, and storage resources. 
+-> It allows customers to outsource their IT infrastructures such as servers, networking, processing, storage, virtual machines, and other resources. 
+
+Platforms-as-a-Service (PaaS)  : 
+-> Provides users with a platform on which applications can run, as well as all the IT infrastructure required for it to run.
+
+Software-as-a-Service (SaaS)  : 
+-> Provides users with essentially a cloud application, the platform on which it runs, and the platform’s underlying infrastructure.
+
+Virtualization : 
+-> It is the "creation of a virtual (rather than actual) version of something, such as a server, a desktop, a storage device, an operating system or network resources".
+ 
+                             
+               							Google Cloud Platform 
+							---------------------------------
+-> Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google.
+
+-> Regions : which is a specific geographical location where users can deploy cloud resources.
+-> Zones :  which is a deployment area for Google Cloud resources within a region.
+-> Multi Regions : 
+-> Availability Zones : 
+
+
+-> Project Creation
+
+ 
+-> Google cloud shell
+Syntax==> (gcloud service resource verb)
+
+--> gcloud compute instance list
